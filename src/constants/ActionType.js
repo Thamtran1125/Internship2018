@@ -1,0 +1,11 @@
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const UPDATE_POST = 'UPDATE_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const EDIT_POST = 'EDIT_POST';
+export const FETCH_CATEGORIES = 'FETCH_USERS';
+export const FETCH_USERS = 'FETCH_USERS';
+export const ADD_USER = 'ADD_USER';
+export const UPDATE_USER = 'UPDATE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const SEARCH = 'SEARCH';
